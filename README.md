@@ -1,5 +1,5 @@
 # Work summary
-This work has been done during my second semester of a master's degree in Sorbonne University, under the supervision of $\textbf{Claire Boyer}$, and has been part of an UE called $\textbf{Research & Study Work}$.
+This work has been done during my second semester of a master's degree in Sorbonne University, under the supervision of $\textbf{Claire Boyer}$, and has been part of an UE called $\textbf{Research \,\, and \,\, Study \,\, Work}$.
 \newline
 Related to the field of Machine Learning, this work leads to a simple general undestanding of $\textbf{Conformal Prediction}$, a modern issue which becomes very important for critical predictions in many fields, such as medicine, wheather reports or environment.   
 
