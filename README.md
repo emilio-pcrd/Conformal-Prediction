@@ -9,7 +9,11 @@ As I explained above, Conformal Prediction is very useful when your prediction h
 
 The main goal is to build prediction sets/intervals to be able to quantify our prediction error, whatever the model used; Theoritically, the sets are built in a free distribution sence. You can use Conformal Prediction for pre-trained models like Hugging Face models, but also for your model trained from scratch.
 
-This presentation is ...
-
 ## Used Python Libraries
 
+'''bash
+- numpy
+- Scikit Learn
+- Pandas
+- matplotlib.pyplot
+'''
