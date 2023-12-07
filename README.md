@@ -11,9 +11,7 @@ The main goal is to build prediction sets/intervals to be able to quantify our p
 
 ## Used Python Libraries
 
-'''bash
 - numpy
 - Scikit Learn
 - Pandas
 - matplotlib.pyplot
-'''
