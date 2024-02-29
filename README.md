@@ -1,7 +1,7 @@
 # Work summary
 This work has been done during my second semester of a master's degree in Sorbonne University, under the supervision of $\textbf{Claire Boyer}$, and has been part of an course called $\textbf{Research and Study Work}$.
 
-Related to the field of Machine Learning, this work leads to a simple general undestanding of $\textbf{Conformal Prediction}$, a modern issue which becomes very important for high risk settings in many domains, such as medicine diagnostics, wheather reports or either environment, where a wrong prediction could aim to consequential model failures.
+Related to the field of Machine Learning, this work leads to a simple general understanding of $\textbf{Conformal Prediction}$, a modern issue which becomes very important for high risk settings in many domains, such as medicine diagnostics, wheather reports or either environment, where a wrong prediction could lead to consequential model failures.
 
 # Conformal Prediction summary services 
 
